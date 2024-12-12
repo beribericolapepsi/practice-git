@@ -3,5 +3,5 @@ some new text edit goes here.
 nope
 yep
 new text
-test! yes!
 EDIT! HERE! ATTEMPT TO CONFLICT!
+test! yes! TWICE
